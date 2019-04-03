@@ -1,0 +1,29 @@
+bit.ly/designarekmotion --> Link Figma
+
+password lab motion --> gataueuy
+
+icon-icon biasanya menggunakan svg
+
+cara menghilangkan toolbar, ke sub menu values pada bagian styles.xml. lalu di bagian header menjadi NoActionBar
+<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+untuk text pake sp
+untuk button, logo, img dp
+
+match parent = menyesuaikan ukuran dengan parentnya
+wrap content = 
+
+dependencies biasa digunakan
+- cardview
+-
+
+Link untuk library aneh-aneh : Android Arsenal
+
+untuk merapihkan codingan : ctrl + alt + l
+untuk salin/duplicate : ctrl + d
+untuk mengganti banyak value secara bersamaan :
+
+ctrl + k : git
+ctrl + shift + k : git
+
+link classroom : sfyrz5n
